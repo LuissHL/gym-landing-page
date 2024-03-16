@@ -1,27 +1,19 @@
-# LandingPageAcademy
+# gym-landing-page
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.2.
+Landing page criada para uma academia.
 
-## Development server
+## Ferramentas utilizadas: 
+<img  width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Esta página foi desenvolvida com Angular o objetivo de atrair novos clientes e fornecer informações relevantes sobre os serviços oferecidos pela academia. O design é moderno e responsivo, garantindo uma boa experiência de usuário em diferentes dispositivos. O repositório inclui HTML, CSS e Typescript, juntamente com sistema de rotas e recursos como imagens e ícones usados no projeto.
 
-## Code scaffolding
+### Iniciando local
+> `git clone https://github.com/LuissHL/gym-landing-page.git`
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+>`cd gym-landing-page`
 
-## Build
+>`npm install (Pode ser com qualquer gerenciador de pacotes.)`
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+>`ng serve`
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Pronto! Agora o projeto está rodando localmente!

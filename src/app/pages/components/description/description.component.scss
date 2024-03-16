@@ -1,0 +1,16 @@
+ p {
+  font-size: 18px;
+}
+
+.fontStrong {
+  color: black;
+  font-weight: 500;
+}
+
+.description-content {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  animation: fadeUp 2s normal;
+
+}
